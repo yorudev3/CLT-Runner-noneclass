@@ -36,6 +36,13 @@
   "name":"CLT-Runner-noneclass",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_batatinha","path":"sprites/spr_batatinha/spr_batatinha.yy",},},
+    {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
+    {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
+    {"id":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},},
+    {"id":{"name":"spr_hamborgui","path":"sprites/spr_hamborgui/spr_hamborgui.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
