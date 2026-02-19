@@ -43,6 +43,7 @@
     {"id":{"name":"obj_press_space","path":"objects/obj_press_space/obj_press_space.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_history","path":"rooms/rm_history/rm_history.yy",},},
+    {"id":{"name":"scr_chance","path":"scripts/scr_chance/scr_chance.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_batatinha","path":"sprites/spr_batatinha/spr_batatinha.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
