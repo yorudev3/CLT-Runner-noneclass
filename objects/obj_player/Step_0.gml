@@ -1,8 +1,8 @@
 if (keyboard_check_pressed(vk_left)) {
-	x = leftPosition;
-} else if (keyboard_check_pressed(vk_right)) x = rightPosition;
+	x = global.leftPosition;
+} else if (keyboard_check_pressed(vk_right)) x = global.rightPosition;
 
-if (x == leftPosition) {
+if (x == global.leftPosition) {
 	image_angle = 0;
 	image_yscale = 1.864865;
 } else {

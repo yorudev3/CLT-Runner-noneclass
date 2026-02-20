@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_background",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_batatinha",
+  "eventList":[],
   "managed":true,
-  "name":"obj_background",
+  "name":"obj_batatinha",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_food",
+    "path":"objects/obj_food/obj_food.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_background",
-    "path":"sprites/spr_background/spr_background.yy",
+    "name":"spr_batatinha",
+    "path":"sprites/spr_batatinha/spr_batatinha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,5 +1,1 @@
-y = 552;
-
-leftPosition = 56;
-
-rightPosition = 312;
+y = 442;
