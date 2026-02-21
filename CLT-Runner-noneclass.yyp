@@ -53,6 +53,8 @@
     {"id":{"name":"rm_history","path":"rooms/rm_history/rm_history.yy",},},
     {"id":{"name":"scr_chance","path":"scripts/scr_chance/scr_chance.yy",},},
     {"id":{"name":"scr_global_variables","path":"scripts/scr_global_variables/scr_global_variables.yy",},},
+    {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
+    {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_batatinha","path":"sprites/spr_batatinha/spr_batatinha.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
