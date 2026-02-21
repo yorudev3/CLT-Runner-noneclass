@@ -35,6 +35,7 @@
   },
   "name":"CLT-Runner-noneclass",
   "resources":[
+    {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"obj_background_controller","path":"objects/obj_background_controller/obj_background_controller.yy",},},
     {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_batatinha","path":"objects/obj_batatinha/obj_batatinha.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"obj_food_spawn","path":"objects/obj_food_spawn/obj_food_spawn.yy",},},
     {"id":{"name":"obj_food","path":"objects/obj_food/obj_food.yy",},},
     {"id":{"name":"obj_history","path":"objects/obj_history/obj_history.yy",},},
+    {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_press_space","path":"objects/obj_press_space/obj_press_space.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
